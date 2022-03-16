@@ -1,1 +1,1 @@
-# semi-supervised-learning-with-graphs
+# Centrality and semi-supervised learning with graphs and hypergraphs
